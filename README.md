@@ -39,16 +39,16 @@ To push - git push origin (name of branch)
 ![Academics Page](Academics%20Page.jpeg)
 
 ### **FAQ PAGE**
-![FAQ's page](FAQ%20Page.jpeg)
+![FAQ's page](FAQ%20page.jpeg)
 
 ### **CONTACT PAGE**
-![Contact page](FAQ%20Page.jpeg)
+![Contact page](Contact%20Page.jpeg)
 
 ### **FACULTY PAGE**
 ![Faculty page](FAQ%20Page.jpeg)
 
 ### **NEWS AND EVENTS**
-![News page](FAQ%20Page.jpeg)
+![News page](News%20Page.jpeg)
 
 ### **GALLERY PAGE**
 ![Gallery page](FAQ%20Page.jpeg)
