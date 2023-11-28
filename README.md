@@ -5,7 +5,7 @@
 
 ## *Introduction And Purpose of My Website*
 
-Welcome to my version of the University of Ghana computer Science department website. Mainly a task and project assigned by the department, it also serves as an eye-opening experience. The website aims at displaying the computer science department to the world, so that others will be able to love and cherish the department. It provides information on the department and answers very important questions likely to be raised by others not in the department. Prospective students can also use this as a guide in registering into one of the best departments in the school.
+Welcome to my version of the University of Ghana computer Science department website. I basically created a branch named newest-branch and did my work there. Mainly a task and project assigned by the department, it also serves as an eye-opening experience. The website aims at displaying the computer science department to the world, so that others will be able to love and cherish the department. It provides information on the department and answers very important questions likely to be raised by others not in the department. Prospective students can also use this as a guide in registering into one of the best departments in the school.
 
 ## *Detailed introductions on how to clone and set up the project*
 Before cloning, you must ensure that you have git and VS Code fully installed and running on your machine.
@@ -29,34 +29,34 @@ To push - git push origin (name of branch)
 
 ## *Screenshots of each page of my website*
 
-### **HOME PAGE**
+## **HOME PAGE**
 ![Home Page](Home%20Page.jpeg)
 
-### **ABOUT US**
+## **ABOUT US**
 ![About Us Page](About%20Us%20Page.jpeg)
 
-### **COURSES PAGE**
+## **COURSES PAGE**
 ![Courses Page](Courses%20Page.jpeg)
 
-### **ACADEMICS PAGE**
+## **ACADEMICS PAGE**
 ![Academics Page](Academics%20Page.jpeg)
 
-### **FAQ PAGE**
+## **FAQ PAGE**
 ![FAQ's page](FAQ%20page.jpeg)
 
-### **CONTACT PAGE**
+## **CONTACT PAGE**
 ![Contact page](Contact%20Page.jpeg)
 
-### **FACULTY PAGE**
+## **FACULTY PAGE**
 ![Faculty page](Faculty%20Page.jpeg)
 
-### **NEWS AND EVENTS**
+## **NEWS AND EVENTS**
 ![News page](News%20Page.jpeg)
 
-### **GALLERY PAGE**
+## **GALLERY PAGE**
 ![Gallery page](Gallery%20Page.jpeg)
 
-### **RESEARCH PAGE**
+## **RESEARCH PAGE**
 ![Research page](Research%20Page.jpeg)
 
 ## *Lessons I have Learnt From the Project*
