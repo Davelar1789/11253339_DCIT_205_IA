@@ -17,10 +17,13 @@ Ensure you follow the command with the https that you copied. Then click Enter.
 3. Navigate to the project directory next using this command
 cd
 Followed by your repository name
-4. You are then good to go. You can cretae a branch though if you like.
+4. You are then good to go. You can create a branch though if you like.
 5. Frequently add, commit and push to your github with the following commands
+
 To add - git add .
+
 To commit - git commit -m "(description)"
+
 To push - git push origin (name of branch) 
 6. Your code is good then on Github.
 
@@ -54,7 +57,7 @@ To push - git push origin (name of branch)
 ![Gallery page](FAQ%20Page.jpeg)
 
 ### **RESEARCH PAGE**
-![Research page](FAQ%20Page.jpeg)
+![Research page](Research%20Page.jpeg)
 
 ## *Lessons I have Learnt From the Project*
 
